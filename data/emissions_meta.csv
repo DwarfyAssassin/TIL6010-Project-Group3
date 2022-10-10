@@ -1,0 +1,208 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Emissions to air on Dutch territory; mobile sources";"Emissions to air; mobile sources";"84735ENG";"Air pollution, emissions of mobile sources
+Road traffic, inland shipping, railways, aviation, navigation, machinery.";"2022-09-08T02:00:00";"Specialupdate";"";"en";"CBS";"Twiceyearly";"1990-2021";"
+This table contains figures on the emissions in the Netherlands by mobile sources. These are actual emissions in or above the Netherlands and on the continental shelf (see paragraph 2). Mobile source emissions are caused by the combustion of motor fuels, the evaporation of fuel and load residues (VOC), wear of tyres, brake linings and road surfaces (PM10), and the wear of railway overhead contact lines, including emissions caused by friction and spark erosion of the current collectors.
+The emissions are calculated by multiplying data on activities, for instance vehicle kilometres and fuel consumption, by emission factors.
+
+Data available from: 1990
+
+Status of the figures:
+The figures from 1990 to 2020 are final. In order to obtain a consistent time series the complete data set is (re)calculated when necessary, so as to be able to include the latest insights in the survey, especially in the case of emission factors.
+
+Changes as of 8 September 2022:
+Addition of provisional figures 2021.
+
+When will new figures be published?
+Final figures for 1990 to 2021 will be published in February 2023.
+
+";"CONTENTS
+
+1. General information
+2. Definitions and explanation of symbols
+3. Links to relevant tables and articles
+4. Sources and methods
+5. Further information
+
+
+1. GENERAL INFORMATION
+
+This table contains figures on the emissions in the Netherlands by mobile sources. These are actual emissions in or above the Netherlands and on the continental shelf (see paragraph 2). Mobile source emissions are caused by the combustion of motor fuels, the evaporation of fuel and load residues (VOC), wear of tyres, brake linings and road surfaces (PM10), and the wear of railway overhead contact lines, including emissions caused by friction and spark erosion of the current collectors.
+The emissions are calculated by multiplying data on activities, for instance vehicle kilometres and fuel consumption, by emission factors.
+
+Data available from: 1990
+
+Status of the figures:
+The figures from 1990 to 2020 are final. In order to obtain a consistent time series the complete data set is (re)calculated when necessary, so as to be able to include the latest insights in the survey, especially in the case of emission factors.
+
+Changes as of 8 September 2022:
+Addition of provisional figures 2021.
+
+When will new figures be published?
+Final figures for 1990 to 2021 will be published in February 2023.
+
+
+2. DEFINITIONS AND EXPLANATION OF SYMBOLS
+
+Definitions:
+
+Mobile sources: means of transport and mobile machinery with a combustion engine, for instance cars, lorries, ships, and aircraft. Mobile machinery includes tractors, forklift trucks and construction machinery.
+
+Continental shelf (of Europe): area in between the low water line and a water depth of 200 meters with a maximum of 200 miles from the coast line. From 1960 until 1975 the North Sea states entered into treaties to establish the borders on the continental shelf.
+
+Explanation of symbols:
+
+Empty cell	: figure not applicable
+. 		: figure is unknown, insufficiently reliable or confidential
+*		: provisional figure 
+**		: revised provisional figure
+
+The CO2 emissions have been rounded to the nearest 100 with the unit 'million kg'. As a result, a 0 means a value < 50 million kg.
+
+
+3. LINKS TO RELEVANT TABLES AND ARTICLES
+
+Relevant tables:
+Statline offers several related tables:
+-<a href=/""/https://opendata.cbs.nl/statline/#/CBS/en/dataset/80448ENG/""/>Emissions to air on Dutch territory; mobile sources, 1990-2018</a>
+-<a href=/""/https://opendata.cbs.nl/statline/#/CBS/en/dataset/37221ENG/""/>Emissions to air on Dutch territory; totals</a>
+-<a href=/""/https://opendata.cbs.nl/statline/#/CBS/en/dataset/83390ENG/""/>Emissions to air on Dutch territory; stationary sources</a>
+-<a href=/""/https://opendata.cbs.nl/statline/#/CBS/en/dataset/7063ENG/""/>Emissions to air on Dutch territory; road traffic</a> 
+-<a href=/""/https://opendata.cbs.nl/statline/#/CBS/en/dataset/70946ENG/""/>Emissions of greenhouse gases according to IPCC guide-lines</a> 
+-<a href=/""/https://opendata.cbs.nl/statline/#/CBS/en/dataset/70947ENG/""/>Emissions of air polluting substances according to NEC guide-lines</a>
+
+IPCC-emissions:
+The emissions of the greenhouse gases CO2, CH4 and N2O, as calculated in accordance with the IPCC-guidelines have been published in Statline table /""/Emissions of greenhouse gases according to IPCC guide-lines/""/.
+The IPCC (Intergovernmental Panel on Climate Change)is responsible for the (scientific) supervision of the implementation of the Kyoto-protocol.
+
+Differences between 'actual' and IPCC emissions:
+Under the IPCC-guidelines, CO2-emissions caused by the combustion of biomass (wood, organic waste, and also biogas) are not included. It is assumed that in the short term these emissions are absorbed by plants, etc. Because of the short cyclic presence in the atmosphere, they do not contribute to an increase of CO2 concentrations. In the calculation of the 'actual' emissions the emissions by biogenic processors are included. The other ('actual') greenhouse gas emissions by stationary sources are calculated according to the IPCC-guidelines.
+
+Mobile source emission figures show a number of differences when comparing IPCC emissions with 'actual' emissions:
+- The IPCC emissions by road traffic are calculated on the basis of sales of motor fuels in the Netherlands, whereas the actual emissions are calculated on the basis of vehicle kilometres.
+- The IPCC emissions by fisheries are based on fuel sold; the actual emissions on Dutch territory are based on the distance covered by fishing boats. This includes the emissions on  the Dutch part of the Continental Shelf (NCP).
+- The IPCC emissions by petrol driven pleasure boats are included in the emissions by road traffic. It is not possible to distinguish between petrol sales for road traffic and non-road traffic.
+- In contrast with the actual emission figures, seagoing vessels are not included in the IPCC-figures.
+- The IPCC emissions by inland shipping only contain the emissions from ships with an inland destination (and departure). The actual emissions are based on all inland ship movements.
+- The IPCC aviation emissions only contain emissions from inland flights. The actual emissions are based on all landings and take offs (LTO cycles) in the Netherlands.
+- The IPCC emissions include emissions by military operations abroad. The actual military emissions are based on inland activities only. They are not reported separately, but included in the emissions by the various mobile source categories, such as aviation, seagoing shipping and other mobile sources.
+
+NEC-emissions:
+The emissions of SO2, NOx, NH3 and VOCs, as calculated in accordance with the NEC-guidelines have been published in Statline table /""/Emissions of air polluting substances according to NEC guide-lines/""/.
+
+In 2001 the European Parliament and the Council of the European Union have drawn up a directive concerning the national emission ceilings (NEC) for trans-border air pollutants. The directive sets upper limits for the total emissions of each member state in 2010.
+
+The difference between NEC and actual emissions on Dutch territory:
+The NEC directive disregards emissions by seagoing shipping. In the calculation of the actual emissions the emissions by seagoing ships within the Dutch borders and on the Dutch part of the continental shelf are included. The emissions by road traffic and emissions by fisheries are calculated on the basis of fuel sales. Furthermore the data for mobile sources are identical with the emissions on Dutch territory.
+
+Relevant articles: 
+None.
+
+More information can be found in the theme  <a href=/""/ https://www.cbs.nl/en-gb/society/nature-and-environment/""/>Nature and environment</a>
+
+
+4. SOURCES AND METHODS
+Statistics Netherlands annually assesses emissions into the atmosphere throughout the country within the framework of the Dutch Pollutant Release and Transfer Register project. Several institutions participate in this project: Statistics Netherlands (CBS), the National Institute for Public Health and Environment (RIVM), the Netherlands Environmental Assessment Agency (PBL), the LEI-institute of Wageningen University, Alterra, DG for Public Works and Water Management, Deltares, TNO, and RVO (formerly NL Agency). 
+
+The survey method for this table can be found in the survey description <a href=/""/https://www.cbs.nl/en-gb/our-services/methods/surveys/brief-survey-description/emissions-to-air-greenhouse-gases-and-air-pollutants/""/>Emissions  to air; greenhouse gases and air pollutants</a>
+
+More information on the methods used for the mobile source emission calculations can be found on the website of the Dutch Pollutant Release and Transfer Register. 
+The Statistics Netherlands data describe the actual state of affairs. In the case of changes in calculation methods, the entire time series is recalculated in order to comply with international commitments. The method changes determined by the Dutch Pollutant Release and Transfer Register can be found in the extensive international reports which have to be provided every year: <a href=/""/https://unfccc.int/ghg-inventories-annex-i-parties/2022/""/>IPCC greenhouse gases</a> and <a href=/""/https://www.ceip.at/status-of-reporting-and-review-results/""/>NEC air pollution</a>
+These reports also hold the original data, including an interpretation of the uncertainty margins.
+
+
+5. FURTHER INFORMATION
+
+<a href='https://www.cbs.nl/en-gb/about-us/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Statistics Netherlands, The Hague/Heerlen
+Reproduction is permitted, provided Statistics Netherlands is quoted as the source.";"ts=1662544106424&graphtype=Table&r=Emissions,Sources&k=Periods&t=Topics";"$filter=((Sources eq 'A025421') or (Sources eq 'A049055') or (Sources eq 'A025424') or (Sources eq 'A025426') or (Sources eq 'A025431') or (Sources eq 'A025423') or (Sources eq 'A025428') or (Sources eq 'A048119')) and ((Emissions eq 'A044109') or (Emissions eq 'A044108') or (Emissions eq 'A044113')) and ((Periods eq '2005JJ00') or (Periods eq '2010JJ00') or (Periods eq '2015JJ00') or (Periods eq '2016JJ00') or (Periods eq '2017JJ00') or (Periods eq '2018JJ00') or (Periods eq '2019JJ00') or (Periods eq '2020JJ00') or (Periods eq '2021JJ00'))&$select=Sources, Emissions, Periods, EmissionsDutchTerritory_1";"Table,Bar,Line";"Regular";"CBS.";"2022-09-08T02:00:00";"2"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"Sources";"Sources";"";;;;;
+"1";"1";;"Dimension";"Emissions";"Emissions";"";;;;;
+"2";"2";;"TimeDimension";"Periods";"Periods";"";"true";;;;
+"3";"3";;"Topic";"EmissionsDutchTerritory_1";"Emissions, Dutch territory";"The actual emissions in or above the Netherlands and on the continental shelf (of Europe) (area in between the low water line and a water depth of 200 meters with a maximum of 200 miles from the coast line).   
+Mobile source emissions are caused by the combustion of motor fuels, the evaporation of fuel and load residues (VOC), wear of tyres, brake linings and road surfaces (PM10), and the wear of railway overhead contact lines, including emissions caused by friction and spark erosion of the current collectors.
+
+The emissions are calculated by multiplying data on activities, for instance vehicle kilometres and fuel consumption, by emission factors.";;"Double";"million kg";"1";"Missing"
+"Sources"
+Key;Title;Description
+"A025421";"Total mobile sources";"Mobile sources comprise transport equipment and mobile machinery with a combustion engine, inclusive of foreign transport and shipping on the Dutch part of the European Continental Shelf. The Continental Shelf is the area in between the low water line and a water depth of 200 metres at a distance of maximum of 200 miles from the coastline. From 1960 until 1975 the North Sea States entered into treaties to establish the borders on the Continental Shelf."
+"A049055";"Total inland transport";"Mobile sources excluding mobile machinery and navigation on the Dutch part of the European Continental Shelf. The Continental Shelf is the area in between the low water line and a water depth of 200 metres at a distance of maximum of 200 miles from the coastline. From 1960 until 1975 the North Sea States entered into treaties to establish the borders on the Continental Shelf."
+"A025424";"Road traffic, total";"Road traffic within the Netherlands, including foreign vehicles. Detailed emission figures can be found in the Statline table 'Emissions into the atmosphere; road traffic'."
+"A048112";"Road traffic, passenger cars";"Road traffic within the Netherlands, including foreign vehicles. Detailed emission figures can be found in the Statline table 'Emissions into the atmosphere; road traffic'."
+"A048113";"Road traffic, freight vehicles";"Road traffic within the Netherlands, including foreign vehicles. This includes lorries, road tractors (for hauling trailers), and delivery vans. Detailed emission figures can be found in the Statline table 'Emissions into the atmosphere; road traffic'."
+"A049056";"Road traffic, other";"Road traffic within the Netherlands, including foreign vehicles. This includes motorcycles, mopeds, buses, and special purpose vehicles, such as fire engines. Detailed emission figures can be found in the Statline table 'Emissions into the atmosphere; road traffic'."
+"A025426";"Total inland shipping";"Transport of freight and passengers, and pleasure cruising within the Netherlands, including foreign vessels."
+"A048114";"Inland shipping, passenger transport";"Passenger transport within the Netherlands, including foreign vessels."
+"A048115";"Inland shipping, freight transport";"Freight transport within the Netherlands, including foreign vessels. The emission data include the evaporation of load residues (VOC)."
+"A048116";"Inland shipping, pleasure cruising";"Pleasure cruising within the Netherlands, including foreign vessels."
+"A025431";"Fishing";"Includes all inland and coastal fishery and fishery on the Dutch part of the Continental Shelf. The emission calculations are based on ship movements.
+"
+"A025423";"Railways total";"Diesel traction plus emissions (particulates) from the wear of overhead contact lines and the emissions caused by friction and spark erosion of the current collectors (thus excludes emissions due to electricity production)."
+"A048110";"Railways, passenger transport";"Diesel traction plus emissions (particulates) from the wear of overhead contact lines and the emissions caused by friction and spark erosion of the current collectors."
+"A048111";"Railways, freight transport";"It concerns diesel traction plus emissions (particulates) due to the wear of overhead contact lines and the emissions caused by friction and spark erosion of the current collectors."
+"A025428";"Aviation";"Emissions by the combustion of aviation fuels during take-offs, landings and taxiing, and the evaporation of fuels."
+"A048117";"Seagoing shipping, inland";"Sea-going vessels at anchor, including in ports, and sailing and manoeuvring vessels on Dutch territory."
+"A048118";"Seagoing shipping on continental shelf";"The Continental Shelf is the area between the low water line and a water depth of 200 metres at a distance of maximum 200 miles from the coastline. From 1960 until 1975 the North Sea States entered into treaties to establish borders on the Continental Shelf."
+"A048119";"Mobile machinery, total";"Machinery with a combustion engine, for example agricultural tractors, forklift trucks and (road-)building machinery."
+"A025430";"Mobile machinery, agriculture";"Mainly tractors, including contracting and hire firms."
+"A048120";"Mobile machinery, building industry";"Machinery with a combustion engine, for example (road-) building machinery, mobile cranes and bulldozers."
+"A025433";"Mobile machinery, other sectors";"Machinery with a combustion engine, for example forklift trucks, mobile cranes and lawn mowers."
+"Emissions"
+Key;Title;Description
+"A044109";"Carbon dioxide (CO2)";"CO2 is formed by the combustion of carbon in fuels. Greenhouse gas (causes the temperature of the earth's atmosphere to rise gradually)."
+"A044108";"Carbon monoxide (CO)";"CO is caused by incomplete combustion of fuels. Toxic gas (detrimental to health)."
+"A044116";"VOC emission by combustion";"Volatile organic compounds, combustion emission.
+Caused by incomplete combustion of fuels. Smog generating and sometimes carcinogenic."
+"A044117";"VOC emission by evaporation";""
+"A044115";"Volatile organic compounds (VOC)";"Volatile organic compounds (combustion + evaporation).
+Caused by combustion of fuels and evaporation of petrol from the vehicle fuel system. In this table emissions of cooling agents from air conditioners and emissions from car products like screen washer liquid are excluded. Volatile organic compounds are smog generating and sometimes carcinogenic."
+"A044107";"Methane (CH4)";"Methane (= natural gas). 
+Among other causes CH4 is formed by incomplete combustion of fuels, leakage from the natural gas network, and by fermentation. Greenhouse gas (causes the temperature of the earth's atmosphere to rise gradually)."
+"A044118";"NMVOS";"Non-methane volatile organic compounds. 
+Among others caused by incomplete combustion of fuels and evaporation of fuels, cooling agents, inland vessel load residues, and other chemical substances. VOC emissions are also formed during various industrial processes. Smog generating and sometimes carcinogenic."
+"A044112";"Nitrogen oxides (NOx)";"Nitrogen oxides (NOx = NO and NO2, calculated as NO2).
+Causes acidification and generates smog."
+"A044110";"Dinitrogen oxide (N2O)";"Laughing gas/dinitrogen oxide.
+N2O is formed during various chemical conversion processes, among which during the warming up phase of catalytic converters, as a result of incomplete conversion of nitrogen oxides (NOx) into nitrogen (N2). Greenhouse gas (causes the temperature of the earth's atmosphere to rise gradually)."
+"A044114";"Sulphur dioxide (SO2)";"Sulphur dioxide (SO2 and SO3, calculated as SO2). 
+
+SO2 is formed by the combustion of sulphur in fuels. Causes acidification"
+"A044113";"PM10 (Particulate matter)";"Particulate matter (PM10 = particulates with diameter smaller than 10 micrometres).
+Among other causes PM10 is formed during the combustion of diesel fuel, various industrial processes, and wear processes like the wear of tyres, brake linings, road surface, and railway overhead contact lines. Detrimental to health, penetrates deeply into the lungs."
+"Periods"
+Key;Title;Description;Status
+"1990JJ00";"1990";;"Definitief"
+"1991JJ00";"1991";;"Definitief"
+"1992JJ00";"1992";;"Definitief"
+"1993JJ00";"1993";;"Definitief"
+"1994JJ00";"1994";;"Definitief"
+"1995JJ00";"1995";;"Definitief"
+"1996JJ00";"1996";;"Definitief"
+"1997JJ00";"1997";;"Definitief"
+"1998JJ00";"1998";;"Definitief"
+"1999JJ00";"1999";;"Definitief"
+"2000JJ00";"2000";;"Definitief"
+"2001JJ00";"2001";;"Definitief"
+"2002JJ00";"2002";;"Definitief"
+"2003JJ00";"2003";;"Definitief"
+"2004JJ00";"2004";;"Definitief"
+"2005JJ00";"2005";;"Definitief"
+"2006JJ00";"2006";;"Definitief"
+"2007JJ00";"2007";;"Definitief"
+"2008JJ00";"2008";;"Definitief"
+"2009JJ00";"2009";;"Definitief"
+"2010JJ00";"2010";;"Definitief"
+"2011JJ00";"2011";"";"Definitief"
+"2012JJ00";"2012";"";"Definitief"
+"2013JJ00";"2013";;"Definitief"
+"2014JJ00";"2014";;"Definitief"
+"2015JJ00";"2015";"";"Definitief"
+"2016JJ00";"2016";"";"Definitief"
+"2017JJ00";"2017";"";"Definitief"
+"2018JJ00";"2018";"";"Definitief"
+"2019JJ00";"2019";"";"Definitief"
+"2020JJ00";"2020";"";"Definitief"
+"2021JJ00";"2021";"Provisional figures";"Voorlopig"

@@ -1,0 +1,225 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Traffic performance motor vehicles; kilometres, type of vehicle, territory";"Traffic motor vehicles";"80302ENG";"Vehicle-kilometers Dutch and foreign vehicles, passenger cars,
+delivery vans, lorries, road tractors, special purpose vehicles, buses";"2021-11-10T02:00:00";"Update";"";"en";"CBS";"Yearly";"1990 - 2020";"
+This table contains information on traffic performance (vehicle-kilometres) of passenger cars, delivery vans, lorries, semi-trailers, special purpose vehicles and buses.  
+Vehicle-kilometres of Dutch vehicles have been broken down by Dutch vehicles on Dutch territory and Dutch vehicles on foreign territory.  
+In addition, there are figures on the total distance covered on Dutch territory. A distinction is made between kilometres covered by Dutch vehicles and kilometres by foreign vehicles.  
+
+For the 2020 data a correction factor was implemented to correct for the ‘smoothing effect’ caused by the method. The smoothing effect smoothes out yearly variation in the data and this results in a distorted picture of periods of time when mobility patterns suddenly change drastically, like happened in 2020 due to COVID-19. Information on the smoothing effect can be found in the <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/verkeersprestaties-personenauto-s'>methodological description</a> (only available in Dutch). 
+
+From 2016 up the kilometres driven by busses are no longer devided in kilometres driven on Dutch or on foreign roads.
+
+Data available from: 1990 
+
+Status of the figures:
+The figures in this table up to and including 2018 are definitive. Figures over 2019 and 2020 have a provisional status. 
+
+Changes as of 10 November 2021:
+Provisional figures over 2020 have been added.
+
+When will new figures be published?
+New figures are expected to be released by end of 2022.
+
+";"CONTENTS
+
+1. General information
+2. Definitions and explanations of symbols
+3. Links to relevant tables and articles
+4. Sources and methods
+5. More information
+
+
+1. GENERAL INFORMATION
+
+This table contains information on traffic performance (vehicle-kilometres) of passenger cars, delivery vans, lorries, semi-trailers, special purpose vehicles and buses.  
+Vehicle-kilometres of Dutch vehicles have been broken down by Dutch vehicles on Dutch territory and Dutch vehicles on foreign territory.  
+In addition, there are figures on the total distance covered on Dutch territory. A distinction is made between kilometres covered by Dutch vehicles and kilometres by foreign vehicles.  
+
+For the 2020 data a correction factor was implemented to correct for the ‘smoothing effect’ caused by the method. The smoothing effect smoothes out yearly variation in the data and this results in a distorted picture of periods of time when mobility patterns suddenly change drastically, like happened in 2020 due to COVID-19. Information on the smoothing effect can be found in the <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/verkeersprestaties-personenauto-s'>methodological description</a> (only available in Dutch). 
+
+From 2016 up the kilometres driven by busses are no longer devided in kilometres driven on Dutch or on foreign roads.
+
+Data available from: 1990 
+
+Status of the figures:
+The figures in this table up to and including 2018 are definitive. Figures over 2019 and 2020 have a provisional status. 
+
+Changes as of 10 November 2021:
+Provisional figures over 2020 have been added.
+
+When will new figures be published?
+New figures are expected to be released by end of 2022.
+
+
+2. DEFINITIONS AND EXPLANATIONS OF SYMBOLS
+
+Definitions:
+
+Traffic performance
+Distance covered by (motor) vehicles over a certain period, expressed in vehicle-kilometres. 
+
+Vehicle-kilometre
+Unit of measurement for traffic, representing the movement of a vehicle over one kilometre.
+
+Passenger car
+Road motor vehicle, other than a moped or a motor cycle, intended for the carriage of passengers and designed to seat no more than nine persons (including the driver).
+
+Delivery van
+Goods road vehicle with a gross vehicle weight of not more than 3500 kg, designed, exclusively or primarily, to carry goods.
+Included are vans designed for and used primarily for transport of goods, pick-ups and small lorries with a gross vehicle weight of not more than 3500 kg.
+
+Lorry (road tractor not included)
+Rigid heavy goods road vehicle with a gross vehicle weight above 3500 kg, exclusively or primarily designed to carry goods.
+
+Road tractor
+Road motor vehicle, exclusively or primarily designed to haul other road vehicles which are not power-driven (mainly semi-trailers).
+Agricultural tractors are not included.
+
+Special purpose vehicle
+Road motor vehicle designed for purposes other than the carriage of passengers or goods.
+As of May 1, 2009 motor homes are registered as passenger cars or bus depending on the number of seats. Before that date motor homes are registered as special purpose vehicles.
+
+Bus
+Passenger road motor vehicle designed to seat more than nine persons (including the driver).
+
+Explanation of symbols:
+
+Empty cell	: figure not applicable
+. 		: figure is unknown, insufficiently reliable or confidential
+*		: provisional figure 
+**		: revised provisional figure
+
+Figures are rounded off to the nearest 100,000 kilometres. Consequently, the sum of the detail data can deviate from the total.
+
+
+3. LINKS TO RELEVANT TABLES AND ARTICLES
+
+Relevant tables (only in Dutch available):
+- <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/80589NED'>Verkeersprestaties bussen; kilometers, leeftijdsklasse, grondgebied</a>
+- <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/80353NED'>Verkeersprestaties bestelauto's; kilometers, brandstofsoort, grondgebied</a>
+- <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/80379NED'>Verkeersprestaties vrachtvoertuigen; kilometers, gewicht, grondgebied</a>
+- <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/80392NED'>Verkeersprestaties vrachtvoertuigen; kilometers, laadvermogen, grondgebied</a>
+- <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82428NED'>Verkeersprestaties speciale voertuigen; kilometers, gewicht, grondgebied</a>
+- <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/71107NED'>Verkeersprestaties personenauto's; eigendom, brandstof, gewicht, leeftijd</a>
+- <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/80428NED'>Verkeersprestaties personenauto's; kilometers, brandstofsoort, grondgebied</a>
+- <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/81481NED'>Bedrijfsbestelauto's; km's, bedrijfstakken (SBI 2008), bedrijfsgrootte</a>
+- <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/81542NED'>Bedrijfsbestelauto's; gereden km's, bedrijfstakken (SBI 2008), regio's</a>
+- <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/81435NED'>Verkeersintensiteit; rijkswegen, provinciale wegen, landsdelen, 2000 = 100</a>
+
+Traffic performance is used to calculate emissions among other things. Further information on the calculation of traffic performance and emissions by mobile sources can be found in:
+<a href='https://www.cbs.nl/en-gb/our-services/methods/surveys/aanvullende onderzoeksbeschrijvingen/methods-for-calculating-the-emissions-of-transport-in-the-netherlands'>Methods for calculating the emission of transport in the Netherlands</a>.
+
+More information can be found in the theme <a href='https://www.cbs.nl/nl-nl/maatschappij/verkeer-en-vervoer'>Verkeer en vervoer</a> (only in Dutch available).
+
+
+4. SOURCES AND METHODS
+
+Effective from 1 January 2014, Statistics Netherlands receives data from the Netherlands Vehicle Authority (RDW) on passenger cars, light commercial vehicles (<=3,500 kg) and heavy commercial vehicles (> 3,500 kg). Based on the data obtained from this new supplier, depending on the type of vehicle, figures have been calculated starting either from reporting year 2011 or reporting year 2012. 
+
+For reporting years 2001 up to and including 2010/2011, figures have been calculated using odometer readings from the NAP database (Nationale AutoPas). 
+
+The survey method for this table can be found in the various survey descriptions (only in Dutch available)
+- <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/verkeerprestaties-bestelauto-s'>Verkeersprestaties bestelauto's</a>
+- <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/verkeersprestaties-vrachtauto-s-en-trekkers'>Verkeersprestaties vrachtauto's en trekkers</a>
+- <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/verkeersprestaties-personenauto-s'>Verkeersprestaties personenauto's</a>
+- <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/verkeersprestaties-autobussen'>Verkeersprestaties autobussen</a>
+- <a href='https://www.cbs.nl/NR/rdonlyres/B1E74A89-2C75-4C4B-B832-9EC15E06E8C1/0/2011n87pub.pdf'>Verkeersprestaties autobussen, methodebeschrijving en resultaten</a>
+- <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/verkeersprestaties-speciale-voertuigen'>Verkeersprestaties speciale voertuigen</a>
+- <a href='https://www.cbs.nl/NR/rdonlyres/FE4B90F8-A559-43C4-A8F9-11105621A131/0/2014methoderapportverkeersprestatiesspecialevoertuigen.pdf'>Methoderapport verkeersprestaties speciale voertuigen</a>
+
+
+5. FURTHER INFORMATION
+
+<a href='https://www.cbs.nl/en-gb/about-us/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Statistics Netherlands, The Hague/Heerlen
+Reproduction is permitted, provided Statistics Netherlands is quoted as the source.";"ts=1635345261502&graphtype=Table&r=TypesOfVehicle,Periods&k=Topics";"$filter=((TypesOfVehicle eq 'A018928') or (TypesOfVehicle eq 'A018943') or (TypesOfVehicle eq 'A018935') or (TypesOfVehicle eq 'A018936') or (TypesOfVehicle eq 'A018937') or (TypesOfVehicle eq 'A018939') or (TypesOfVehicle eq 'A018940')) and ((Periods eq '2015JJ00') or (Periods eq '2016JJ00') or (Periods eq '2017JJ00') or (Periods eq '2018JJ00') or (Periods eq '2019JJ00') or (Periods eq '2020JJ00'))";"Table,Bar,Line";"Regular";"CBS.";"2021-11-10T02:00:00";"2"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"TypesOfVehicle";"Types of vehicle";"";;;;;
+"1";"1";;"TimeDimension";"Periods";"Periods";"";"true";;;;
+"2";;;"TopicGroup";"";"Kilometres in the Netherlands";"The total distance travelled (in km) in the Netherlands by vehicles with a Dutch registration plate and vehicles with foreign registration plates.";;;;;
+"3";"2";"2";"Topic";"TotalKilometresInTheNetherlands_1";"Total kilometres in the Netherlands";"The total distance travelled (in km) in the Netherlands by vehicles with a Dutch registration plate and vehicles with foreign registration plates.";;"Double";"million km";"1";"Zero"
+"4";"3";"2";"Topic";"KilometresByDutchVehicles_2";"Kilometres by Dutch vehicles";;;"Double";"million km";"1";"Zero"
+"5";"4";"2";"Topic";"KilometresByForeignVehicles_3";"Kilometres by foreign vehicles";"To calculate the total traffic performance of delivery vans on Dutch roads, it is necessary to estimate the traffic performance of foreign delivery vans in the Netherlands. In the absence of data on foreign delivery vans, it has been assumed that this concerns mainly border traffic. That is why the traffic performance of foreign delivery vans in the Netherlands is set equal to the traffic performance of Dutch delivery vans abroad.";;"Double";"million km";"1";"Zero"
+"6";;;"TopicGroup";"";"Kilometres by Dutch vehicles";"The total distance travelled (in km) in the Netherlands and abroad by vehicles with a Dutch registration plate.";;;;;
+"7";"5";"6";"Topic";"TotalKilometresByDutchVehicles_4";"Total kilometres by Dutch vehicles";"The total distance travelled (in km) in the Netherlands and abroad by vehicles with a Dutch registration plate.";;"Double";"million km";"1";"Zero"
+"8";"6";"6";"Topic";"KilometresInTheNetherlands_5";"Kilometres in the Netherlands";;;"Double";"million km";"1";"Zero"
+"9";"7";"6";"Topic";"KilometresAbroad_6";"Kilometres abroad";"To calculate the total traffic performance of delivery vans on Dutch roads, it is necessary to estimate the traffic performance of foreign delivery vans in the Netherlands. In the absence of data on foreign delivery vans, it has been assumed that this concerns mainly border traffic. That is why the traffic performance of foreign delivery vans in the Netherlands is set equal to the traffic performance of Dutch delivery vans abroad.";;"Double";"million km";"1";"Zero"
+"TypesOfVehicle"
+Key;Title;Description
+"A018928";"Total motor vehicles";"Motorized vehicle for road traffic.
+This includes passenger cars, commercial motor vehicles (vans, lorries, road tractors, special purpose vehicles and buses), motorcycles and vehicles with a moped license plate.
+The statistics exclude motor vehicles running on rails and bicycles with pedal assistance.
+
+Motorcycles and mopeds are not included in this table."
+"A018943";"Passenger car";"Road motor vehicle, other than a moped or a motor cycle, intended for the carriage of passengers and designed to seat no more than nine persons (including the driver).
+
+Included are:
+a) Passenger cars
+b) Vans designed and used primarily for transport of passengers
+c) Taxis
+d) Hire cars
+e) Ambulances
+f) Motor homes.
+Excluded are light goods road vehicles, as well as motor-coaches, buses and mini-buses/mini-coaches.
+/""/Passenger car/""/ includes taxis and passenger hire cars, provided that they have fewer than ten seats. As of May 1, 2009 motor homes are registered as passenger cars or bus depending on the number of seats. Before that date motor homes are registered as special purpose vehicles."
+"A018935";"Delivery van";"Goods road vehicle with a gross vehicle weight of not more than 3500 kg, designed, exclusively or primarily, to carry goods.
+
+Included are vans designed for and used primarily for transport of goods, pick-ups and small lorries with a gross vehicle weight of not more than 3500 kg.
+
+To calculate the total traffic performance of delivery vans on Dutch roads, it is necessary to estimate the traffic performance of foreign delivery vans in the Netherlands. In the absence of data on foreign delivery vans, it has been assumed that this concerns mainly border traffic. That is why the traffic performance of foreign delivery vans in the Netherlands is set equal to the traffic performance of Dutch delivery vans abroad."
+"A018936";"Lorry (road tractor not included)";"Rigid heavy goods road vehicle with a gross vehicle weight above 3500 kg, exclusively or primarily designed to carry goods."
+"A018937";"Road tractor";"Road motor vehicle, exclusively or primarily designed to haul other road vehicles which are not power-driven (mainly semi-trailers).
+
+Agricultural tractors are not included."
+"A018939";"Special purpose vehicle";"Road motor vehicle designed for purposes other than the carriage of passengers or goods.
+
+This includes:
+a) Fire brigade vehicles
+b) Mobile cranes
+c) Self-propelled rollers
+d) Bulldozers with metallic wheels or track
+e) Vehicles for recording film, radio and TV broadcasting
+f) Mobile library vehicles
+g) Towing vehicles for vehicles in need of repair
+h) Other special purpose road motor vehicles, eg. motor homes.
+As of May 1, 2009 motor homes are registered as passenger cars or bus depending on the number of seats. Before that date motor homes are registered as special purpose vehicles."
+"A018940";"Bus";"Passenger road motor vehicle designed to seat more than nine persons (including the driver).
+
+There are two types of buses: coach buses and regular service buses. 
+The vehicle kilometres of scheduled buses in 2009 have been estimated on the basis of the average annual kilometres of 2008 and the development of the fleet of scheduled buses."
+"Periods"
+Key;Title;Description;Status
+"1990JJ00";"1990";"";"Definitief"
+"1991JJ00";"1991";"";"Definitief"
+"1992JJ00";"1992";"";"Definitief"
+"1993JJ00";"1993";"";"Definitief"
+"1994JJ00";"1994";"";"Definitief"
+"1995JJ00";"1995";"";"Definitief"
+"1996JJ00";"1996";"";"Definitief"
+"1997JJ00";"1997";"";"Definitief"
+"1998JJ00";"1998";"";"Definitief"
+"1999JJ00";"1999";"";"Definitief"
+"2000JJ00";"2000";"";"Definitief"
+"2001JJ00";"2001";"";"Definitief"
+"2002JJ00";"2002";"";"Definitief"
+"2003JJ00";"2003";"";"Definitief"
+"2004JJ00";"2004";"";"Definitief"
+"2005JJ00";"2005";"";"Definitief"
+"2006JJ00";"2006";"";"Definitief"
+"2007JJ00";"2007";"";"Definitief"
+"2008JJ00";"2008";"";"Definitief"
+"2009JJ00";"2009";"";"Definitief"
+"2010JJ00";"2010";"";"Definitief"
+"2011JJ00";"2011";"";"Definitief"
+"2012JJ00";"2012";"";"Definitief"
+"2013JJ00";"2013";"";"Definitief"
+"2014JJ00";"2014";"";"Definitief"
+"2015JJ00";"2015";"";"Definitief"
+"2016JJ00";"2016";"";"Definitief"
+"2017JJ00";"2017";"";"Definitief"
+"2018JJ00";"2018";"";"Definitief"
+"2019JJ00";"2019";"Provisional figures";"Voorlopig"
+"2020JJ00";"2020";"Provisional figures";"Voorlopig"

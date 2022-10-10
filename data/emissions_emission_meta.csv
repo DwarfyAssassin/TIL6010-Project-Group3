@@ -1,0 +1,13 @@
+"Emissions"
+Key;Title;Description
+"A044109";"Carbon dioxide (CO2)";"CO2 is formed by the combustion of carbon in fuels. Greenhouse gas (causes the temperature of the earth's atmosphere to rise gradually)."
+"A044108";"Carbon monoxide (CO)";"CO is caused by incomplete combustion of fuels. Toxic gas (detrimental to health)."
+"A044116";"VOC emission by combustion";"Volatile organic compounds, combustion emission. Caused by incomplete combustion of fuels. Smog generating and sometimes carcinogenic."
+"A044117";"VOC emission by evaporation";""
+"A044115";"Volatile organic compounds (VOC)";"Volatile organic compounds (combustion + evaporation). Caused by combustion of fuels and evaporation of petrol from the vehicle fuel system. In this table emissions of cooling agents from air conditioners and emissions from car products like screen washer liquid are excluded. Volatile organic compounds are smog generating and sometimes carcinogenic."
+"A044107";"Methane (CH4)";"Methane (= natural gas). Among other causes CH4 is formed by incomplete combustion of fuels, leakage from the natural gas network, and by fermentation. Greenhouse gas (causes the temperature of the earth's atmosphere to rise gradually)."
+"A044118";"NMVOS";"Non-methane volatile organic compounds. Among others caused by incomplete combustion of fuels and evaporation of fuels, cooling agents, inland vessel load residues, and other chemical substances. VOC emissions are also formed during various industrial processes. Smog generating and sometimes carcinogenic."
+"A044112";"Nitrogen oxides (NOx)";"Nitrogen oxides (NOx = NO and NO2, calculated as NO2). Causes acidification and generates smog."
+"A044110";"Dinitrogen oxide (N2O)";"Laughing gas/dinitrogen oxide. N2O is formed during various chemical conversion processes, among which during the warming up phase of catalytic converters, as a result of incomplete conversion of nitrogen oxides (NOx) into nitrogen (N2). Greenhouse gas (causes the temperature of the earth's atmosphere to rise gradually)."
+"A044114";"Sulphur dioxide (SO2)";"Sulphur dioxide (SO2 and SO3, calculated as SO2). SO2 is formed by the combustion of sulphur in fuels. Causes acidification"
+"A044113";"PM10 (Particulate matter)";"Particulate matter (PM10 = particulates with diameter smaller than 10 micrometres). Among other causes PM10 is formed during the combustion of diesel fuel, various industrial processes, and wear processes like the wear of tyres, brake linings, road surface, and railway overhead contact lines. Detrimental to health, penetrates deeply into the lungs."
