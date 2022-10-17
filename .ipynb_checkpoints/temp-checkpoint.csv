@@ -1,0 +1,218 @@
+ID,Vehicle Type,Year,vhkm
+0,Total motor vehicles,1990,96353.0
+1,Total motor vehicles,1991,96465.0
+2,Total motor vehicles,1992,101215.0
+3,Total motor vehicles,1993,101037.0
+4,Total motor vehicles,1994,102798.0
+5,Total motor vehicles,1995,101990.0
+6,Total motor vehicles,1996,103604.0
+7,Total motor vehicles,1997,106257.0
+8,Total motor vehicles,1998,109333.0
+9,Total motor vehicles,1999,114417.0
+10,Total motor vehicles,2000,116302.0
+11,Total motor vehicles,2001,118254.4
+12,Total motor vehicles,2002,120481.8
+13,Total motor vehicles,2003,122035.1
+14,Total motor vehicles,2004,125340.5
+15,Total motor vehicles,2005,125232.0
+16,Total motor vehicles,2006,125715.6
+17,Total motor vehicles,2007,128007.3
+18,Total motor vehicles,2008,127536.9
+19,Total motor vehicles,2009,127297.3
+20,Total motor vehicles,2010,127928.1
+21,Total motor vehicles,2011,128286.0
+22,Total motor vehicles,2012,127896.2
+23,Total motor vehicles,2013,127233.2
+24,Total motor vehicles,2014,127680.2
+25,Total motor vehicles,2015,129615.8
+26,Total motor vehicles,2016,133256.1
+27,Total motor vehicles,2017,135175.4
+28,Total motor vehicles,2018,137166.7
+29,Total motor vehicles,2019,137648.7
+30,Total motor vehicles,2020,119140.7
+31,Passenger car,1990,81871.0
+32,Passenger car,1991,81164.0
+33,Passenger car,1992,84626.0
+34,Passenger car,1993,83538.0
+35,Passenger car,1994,85226.0
+36,Passenger car,1995,84152.0
+37,Passenger car,1996,85453.0
+38,Passenger car,1997,87256.0
+39,Passenger car,1998,89210.0
+40,Passenger car,1999,92573.0
+41,Passenger car,2000,93198.0
+42,Passenger car,2001,94262.8
+43,Passenger car,2002,96254.2
+44,Passenger car,2003,97414.3
+45,Passenger car,2004,99939.9
+46,Passenger car,2005,99504.5
+47,Passenger car,2006,100468.3
+48,Passenger car,2007,102218.4
+49,Passenger car,2008,101250.2
+50,Passenger car,2009,101514.0
+51,Passenger car,2010,102307.6
+52,Passenger car,2011,102956.4
+53,Passenger car,2012,103122.1
+54,Passenger car,2013,103211.2
+55,Passenger car,2014,103699.1
+56,Passenger car,2015,105088.9
+57,Passenger car,2016,107708.1
+58,Passenger car,2017,108936.1
+59,Passenger car,2018,110355.9
+60,Passenger car,2019,110372.8
+61,Passenger car,2020,92654.2
+62,Delivery van,1990,8065.0
+63,Delivery van,1991,8571.0
+64,Delivery van,1992,9518.0
+65,Delivery van,1993,10475.0
+66,Delivery van,1994,10551.0
+67,Delivery van,1995,10562.0
+68,Delivery van,1996,10938.0
+69,Delivery van,1997,11728.0
+70,Delivery van,1998,12771.0
+71,Delivery van,1999,14018.0
+72,Delivery van,2000,15351.0
+73,Delivery van,2001,16398.8
+74,Delivery van,2002,16613.7
+75,Delivery van,2003,17010.2
+76,Delivery van,2004,17721.3
+77,Delivery van,2005,17908.7
+78,Delivery van,2006,17253.1
+79,Delivery van,2007,17567.7
+80,Delivery van,2008,17859.3
+81,Delivery van,2009,17407.0
+82,Delivery van,2010,17287.3
+83,Delivery van,2011,17056.1
+84,Delivery van,2012,16649.0
+85,Delivery van,2013,16309.2
+86,Delivery van,2014,16295.5
+87,Delivery van,2015,16544.3
+88,Delivery van,2016,17144.3
+89,Delivery van,2017,17668.4
+90,Delivery van,2018,18217.0
+91,Delivery van,2019,18683.4
+92,Delivery van,2020,18107.8
+93,Lorry (road tractor not included),1990,3403.0
+94,Lorry (road tractor not included),1991,3588.0
+95,Lorry (road tractor not included),1992,3720.0
+96,Lorry (road tractor not included),1993,3599.0
+97,Lorry (road tractor not included),1994,3624.0
+98,Lorry (road tractor not included),1995,3726.0
+99,Lorry (road tractor not included),1996,3583.0
+100,Lorry (road tractor not included),1997,3590.0
+101,Lorry (road tractor not included),1998,3526.0
+102,Lorry (road tractor not included),1999,3705.0
+103,Lorry (road tractor not included),2000,3522.0
+104,Lorry (road tractor not included),2001,3176.3
+105,Lorry (road tractor not included),2002,3028.3
+106,Lorry (road tractor not included),2003,2914.0
+107,Lorry (road tractor not included),2004,2859.6
+108,Lorry (road tractor not included),2005,2807.2
+109,Lorry (road tractor not included),2006,2758.6
+110,Lorry (road tractor not included),2007,2767.9
+111,Lorry (road tractor not included),2008,2735.6
+112,Lorry (road tractor not included),2009,2669.8
+113,Lorry (road tractor not included),2010,2564.2
+114,Lorry (road tractor not included),2011,2489.8
+115,Lorry (road tractor not included),2012,2397.1
+116,Lorry (road tractor not included),2013,2208.6
+117,Lorry (road tractor not included),2014,2142.6
+118,Lorry (road tractor not included),2015,2175.6
+119,Lorry (road tractor not included),2016,2224.1
+120,Lorry (road tractor not included),2017,2251.0
+121,Lorry (road tractor not included),2018,2204.9
+122,Lorry (road tractor not included),2019,2161.7
+123,Lorry (road tractor not included),2020,2071.9
+124,Road tractor,1990,2074.0
+125,Road tractor,1991,2204.0
+126,Road tractor,1992,2412.0
+127,Road tractor,1993,2498.0
+128,Road tractor,1994,2472.0
+129,Road tractor,1995,2619.0
+130,Road tractor,1996,2689.0
+131,Road tractor,1997,2758.0
+132,Road tractor,1998,2893.0
+133,Road tractor,1999,3172.0
+134,Road tractor,2000,3243.0
+135,Road tractor,2001,3415.9
+136,Road tractor,2002,3572.4
+137,Road tractor,2003,3696.0
+138,Road tractor,2004,3825.0
+139,Road tractor,2005,3990.0
+140,Road tractor,2006,4187.5
+141,Road tractor,2007,4370.0
+142,Road tractor,2008,4578.1
+143,Road tractor,2009,4557.8
+144,Road tractor,2010,4628.7
+145,Road tractor,2011,4623.3
+146,Road tractor,2012,4610.8
+147,Road tractor,2013,4408.7
+148,Road tractor,2014,4477.5
+149,Road tractor,2015,4747.8
+150,Road tractor,2016,5106.8
+151,Road tractor,2017,5199.9
+152,Road tractor,2018,5264.7
+153,Road tractor,2019,5341.7
+154,Road tractor,2020,5364.8
+155,Special purpose vehicle,1990,319.0
+156,Special purpose vehicle,1991,313.0
+157,Special purpose vehicle,1992,317.0
+158,Special purpose vehicle,1993,306.0
+159,Special purpose vehicle,1994,304.0
+160,Special purpose vehicle,1995,287.0
+161,Special purpose vehicle,1996,296.0
+162,Special purpose vehicle,1997,304.0
+163,Special purpose vehicle,1998,314.0
+164,Special purpose vehicle,1999,327.0
+165,Special purpose vehicle,2000,355.0
+166,Special purpose vehicle,2001,377.2
+167,Special purpose vehicle,2002,382.3
+168,Special purpose vehicle,2003,391.0
+169,Special purpose vehicle,2004,399.9
+170,Special purpose vehicle,2005,427.1
+171,Special purpose vehicle,2006,459.0
+172,Special purpose vehicle,2007,472.1
+173,Special purpose vehicle,2008,487.5
+174,Special purpose vehicle,2009,499.3
+175,Special purpose vehicle,2010,478.8
+176,Special purpose vehicle,2011,499.3
+177,Special purpose vehicle,2012,473.7
+178,Special purpose vehicle,2013,453.5
+179,Special purpose vehicle,2014,441.6
+180,Special purpose vehicle,2015,436.3
+181,Special purpose vehicle,2016,461.5
+182,Special purpose vehicle,2017,465.5
+183,Special purpose vehicle,2018,459.4
+184,Special purpose vehicle,2019,450.5
+185,Special purpose vehicle,2020,434.2
+186,Bus,1990,621.0
+187,Bus,1991,625.0
+188,Bus,1992,622.0
+189,Bus,1993,621.0
+190,Bus,1994,621.0
+191,Bus,1995,644.0
+192,Bus,1996,645.0
+193,Bus,1997,621.0
+194,Bus,1998,619.0
+195,Bus,1999,622.0
+196,Bus,2000,633.0
+197,Bus,2001,623.4
+198,Bus,2002,630.9
+199,Bus,2003,609.7
+200,Bus,2004,594.9
+201,Bus,2005,594.5
+202,Bus,2006,589.2
+203,Bus,2007,611.2
+204,Bus,2008,626.2
+205,Bus,2009,649.5
+206,Bus,2010,661.6
+207,Bus,2011,661.0
+208,Bus,2012,643.5
+209,Bus,2013,641.9
+210,Bus,2014,624.0
+211,Bus,2015,622.9
+212,Bus,2016,611.3
+213,Bus,2017,654.5
+214,Bus,2018,664.8
+215,Bus,2019,638.7
+216,Bus,2020,507.7
